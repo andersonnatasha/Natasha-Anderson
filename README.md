@@ -1,4 +1,4 @@
-![](/static/cover-imgage.png)
+![](/static/cover-image.png)
 
 ## Backstory
 
